@@ -1,2 +1,9 @@
 # Reading-Research-CC
 Reading and Research Responses CC - FA 2024
+I would like to learn how to better program to increase my storytelling skills. The technical limitations that creative coding provides inspires me to think deeper about my creative process. This weeks activity challenged me to think about how human features can be translated into simple 2D shapes. Programming intersects with my film, and journalistic background. Through those lines of work I am required to create interesting stories with depth and narrative. I intend to  explore storytelling through animations using code. This will allow be to create an intersection with technology and the fine arts. I am inspired by creators like Rory Scott, a creative technologist who creates interactive art shows that include themes like humanity, AR fashion etc (https://www.rksxo.com/)
+
+Video Animations: https://vimeo.com/144184771 
+
+“As a result, instead of optimizing our machines for humanity—or even the benefit of some particular group—we are optimizing humans for machinery. And that’s why the choices we make (or don’t make) right now really do matter as much or more than they did for our ancestors contending with language, text, and printing.” Douglas Rushkoff
+
+This passage inspired me to think about the way that I use the tools that I have access to. Being intentional about the things that I create and the way that I design is important to my community. Our consumption of technology can be easily manipulated. As such, we must become an active and responsible participant in our own technological input and output. Becoming an active participant could include creating inclusive designs geared towards accessibility and equity. Technology will outlive generations, therefore it is imperative to create materials that will be positively referenced as a precedent of inventions to come. 
